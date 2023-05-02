@@ -10,7 +10,7 @@ let Settings = {
         let view =  /*html*/`
         <div class="settings-page">
         <div class="settings-title-container">
-            <a class = "back-to-start-page" href="./#/">
+            <a class = "back-to-start-page" href="#/">
                     
             </a>
             <p>Settings</p>

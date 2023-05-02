@@ -1,6 +1,6 @@
 import Utils        from '../../services/Utils.js'
 import {images}         from '../../data/images.js'
-import Categories     from '../pages/Categories.js'
+import Categories     from './Categories.js'
 import  {pictureCategory}  from '../../js/getAllSetsOfCategory.js';
 import  {authorCategory}  from '../../js/getAllSetsOfCategory.js';
 import playList from '../../data/sounds.js'

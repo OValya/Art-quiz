@@ -18,7 +18,7 @@ let Categories = {
         let view = ` 
             <div class = "page-category">
              <div class="categories-button-container">
-                <a class = "button-settings" href="./#/">
+                <a class = "button-settings" href="#/">
                     <img class = "category-logo" src="./assets/svg/start-page/logo.svg" alt="">
                 </a>
                <!-- <input class="score-icon" type="button" value="Score">-->
