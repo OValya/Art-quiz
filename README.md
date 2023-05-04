@@ -7,7 +7,7 @@ Welcome to my project! This is a Art-quiz web app made in Javascript. This easy 
 Deploy you can find there: [Play Art-quiz!](https://ovalya.github.io/Art-quiz/).
 Have a good time!
 
-## If you want contribute this project, follow instructions:
+## If you want to contribute this project, follow instructions:
 
 1. Fork this repository
 2. Clone the forked repository
