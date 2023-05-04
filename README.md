@@ -1,6 +1,6 @@
 # Game Art-quiz
 
-Welcome to my project! This is a Art-quiz web app made in Javascript. This easy and funny game allow users to test their knowledge of artists and paintings. You are wellcome for contributions and comments!
+Welcome to my project! This is a Art-quiz web app made in Javascript. This easy and funny game allows users to test their knowledge of artists and paintings. You are wellcome for contributions and comments!
 
 # Usage
 
